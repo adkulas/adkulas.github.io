@@ -1,2 +1,2 @@
-# adkulas.github.io
-Project Website
+# Adam Kulas
+Project Website)
